@@ -10,21 +10,23 @@ img{
     display: flex;
     align-items: center;
     position: fixed;
-    width: 97%;
+    width: 100%;
     justify-content:left;
     padding-left: 12px;
     padding-top: 13px;
+    background-color: white;
 }
 
 .lupa{
-    padding-left: 90%;
+    padding-left: 88%;
 }
 
 .logo{
-    padding-left: 10px;
+    padding-left: 15px;
     color: red;
-    
 }
+
+
 
 
  
