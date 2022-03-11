@@ -7,12 +7,10 @@ img{
 }
 
 .menu{
-    display: flex;
-    align-items: center;
-    justify-content:left;
-    padding-left: 12px;
+   display:flex;
     padding-top: 5px;
     background-color: white;
+    padding-left: 15px;
 }
 
 .lupa{
@@ -20,8 +18,8 @@ img{
 }
 
 .logo{
-    padding-left: 15px;
     color: red;
+    padding-left: 15px;
 }
 
 .formulario{
@@ -34,10 +32,10 @@ img{
     height: 78vh;
 }
 
-.texto{
+/*.texto{
     color: red;
     position: fixed;
     
 }
-
+*/
  
