@@ -1,0 +1,28 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+img{
+    width: 30px;
+}
+
+.menu{
+    display: flex;
+    align-items: center;
+    position: fixed;
+    width: 97%;
+    justify-content:left;
+    padding-left: 12px;
+    padding-top: 13px;
+}
+
+.lupa{
+    padding-left: 90%;
+}
+
+.logo{
+    padding-left: 10px;
+    color: red;
+    
+}
+
