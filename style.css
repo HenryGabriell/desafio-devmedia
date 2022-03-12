@@ -80,4 +80,34 @@ img{
     text-align: center;
 }
 
-   
+h1{
+    font-size:27px;
+    font-weight: 100;
+    padding-top: 20px;
+    padding-left: 10px;
+}
+
+.txtbox1{
+    padding-top: 9px;
+    padding-left: 10px;
+    display: inline-flex;
+}
+
+.txtbox2{
+    display: inline-flex;
+    padding-left: 45%;
+}
+
+#box1{
+    margin-left: 10px;
+    display: inline-flex;
+    padding-left: 25%;
+    height: 25px;
+}
+
+#box2{
+    display: inline-flex;
+    margin-left: 12px;
+    height: 25px;
+    padding-left: 28.5%;
+}
