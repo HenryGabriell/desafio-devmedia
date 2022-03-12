@@ -111,3 +111,29 @@ h1{
     height: 25px;
     padding-left: 28.5%;
 }
+
+#botao{
+    display: flex;
+    margin-top: 20px;
+    margin-left: 10px;
+    height: 30px;
+    width: 150px;
+    justify-content: center;
+    background-color: rgba(253, 17, 17, 0.897);
+    color: white;
+    border: none;
+    box-shadow: 0.5px 0.5px 3px 0.5px  rgba(0, 0, 0, 0.425);
+}
+/*rgb(128, 128, 128)
+rgba(31, 31, 31, 0.76)
+*/
+#botao:hover{
+    background-color: rgb(223, 30, 30);
+    cursor: pointer;
+    transition: 300ms;
+    color: aliceblue;
+}
+
+#botao:active{
+    margin-top: 19px;
+}
