@@ -173,14 +173,39 @@ main{
 
 #cinq{
     height: 93%;
+    position: absolute;
+}
+
+.txtcinq{
+    color: white;
+    position: absolute;
+    display: flex;
+    top: 85%;
+    left: 5%;
 }
 
 #ny{
     margin-left: 20px;
 }
 
+.txtny{
+    color: white;
+    position: absolute;
+    display: flex;
+    top: 73%;
+    left: 13%;
+}
+
 #san{
     margin-left: 30px;
+}
+
+.txtsan{
+    color: white;
+    position: absolute;
+    display: flex;
+    top: 73%;
+    left: 15.5%;
 }
 
 #pisa{
@@ -188,8 +213,24 @@ main{
     margin-left: 20px;
 }
 
+.txtpis{
+    color: white;
+    position: absolute;
+    display: flex;
+    top: 73%;
+    left: 13%;
+}
+
 #par{
     margin-left: 30px;
+}
+
+.txtpar{
+    color: white;
+    position: absolute;
+    display: flex;
+    top: 73%;
+    left: 16%;
 }
 
 .h-1{
