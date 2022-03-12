@@ -147,11 +147,11 @@ main{
     margin-right: 13%;
 }
 
-#titulo1{
+.titulo1{
     padding-top: 20px;
 }
 
-#txt2{
+.txt2{
     padding-top: 10px;
 }
 
@@ -159,7 +159,7 @@ main{
     display: grid;
     grid-template-columns: repeat(4,1fr);
     grid-auto-rows: 200px;
-    
+    margin-top: 20px;
 }
 
 .item-galeria{
@@ -172,7 +172,7 @@ main{
 }
 
 #cinq{
-    height: 93%;
+    height: 93.6%;
     position: absolute;
 }
 
