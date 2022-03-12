@@ -95,21 +95,21 @@ h1{
 
 .txtbox2{
     display: inline-flex;
-    padding-left: 45%;
+    padding-left: 47.6%;
 }
 
 #box1{
     margin-left: 10px;
-    display: inline-flex;
-    padding-left: 25%;
+    display:inline-flex;
+    width:370px;
     height: 25px;
 }
 
 #box2{
     display: inline-flex;
-    margin-left: 12px;
+    margin-left: 25px;
     height: 25px;
-    padding-left: 28.5%;
+    width: 370px;
 }
 
 #botao{
@@ -124,9 +124,7 @@ h1{
     border: none;
     box-shadow: 0.5px 0.5px 3px 0.5px  rgba(0, 0, 0, 0.425);
 }
-/*rgb(128, 128, 128)
-rgba(31, 31, 31, 0.76)
-*/
+
 #botao:hover{
     background-color: rgb(223, 30, 30);
     cursor: pointer;
@@ -136,4 +134,8 @@ rgba(31, 31, 31, 0.76)
 
 #botao:active{
     margin-top: 19px;
+}
+
+::-webkit-input-placeholder{
+    padding-left: 5px;
 }
